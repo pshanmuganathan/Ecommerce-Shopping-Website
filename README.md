@@ -30,9 +30,9 @@ in the same session from the BestDeal online retailer.
 * In the same session, the customer must be able to add or remove
 items from the shopping cart
 * When the customer chooses to check out:
-  ** The customer will enter personal information (Name,
+    * The customer will enter personal information (Name,
 Address, Credit Card, etc.)
-  ** The customer will be provided with a confirmation number
+    * The customer will be provided with a confirmation number
 and a delivery date (2 weeks after the order date) that the
 customer can use to cancel an order at a later timer, though
 it must be 5 business days before the delivery date.
