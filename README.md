@@ -36,3 +36,14 @@ Address, Credit Card, etc.)
 and a delivery date (2 weeks after the order date) that the
 customer can use to cancel an order at a later timer, though
 it must be 5 business days before the delivery date.
+
+## Databases
+* MySQL
+* MongoDB- For stories reviews on Each product
+
+## DataAnalytics
+* Pulled tweets posted BestBuy to match products with the website I developed to show the trending products. Used Python script to extract the feeds from twitter.(Twitter API)
+
+## Added Functionalities
+* Utilized SAX parser to parse XML document holding the products to be displyed on the first page of the Shopping website. This allows the Admin to just update the XML every now and then, and all the data for the product will be extracted from the backend and reflect on the Home Page.
+* Used AJAX search utility to facilitate instant search on the products available.
